@@ -1,0 +1,4 @@
+/home/gongyansong/下载/intelliJIDEA/clion-2017.2.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/gongyansong/CLionProjects/Pthread
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/gongyansong/CLionProjects/Pthread/cmake-build-debug
